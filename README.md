@@ -1,7 +1,9 @@
 # Pharmacovigilance & Adverse Drug Reaction (ADR) Case Evaluation
 
 ## Overview & Curriculum Alignment
+
 This repository presents a structured pharmacovigilance report aligned with the four core learning objectives of pharmacovigilance training:
+
 1. **Definition of Adverse Drug Reactions (ADRs)**
 2. **Types & Classifications of ADRs**
 3. **Core Principles of Pharmacovigilance**
@@ -9,72 +11,87 @@ This repository presents a structured pharmacovigilance report aligned with the 
 
 ---
 
-## 1. What is an Adverse Drug Reaction (ADR)?
+## 1. What Is an Adverse Drug Reaction (ADR)?
 
-According to WHO guidelines, an **Adverse Drug Reaction (ADR)** is defined as:
-> *"A response to a drug which is noxious and unintended, and which occurs at doses normally used in man for the prophylaxis, diagnosis, or therapy of disease, or for the modification of physiological function."*
+According to the World Health Organization (WHO), an adverse drug reaction is a harmful and unintended response to a medicine occurring at normally used doses for the prevention, diagnosis, or treatment of disease, or for modifying physiological function.
 
-* **Distinction:** Unlike an *Adverse Event (AE)*—which is any untoward medical occurrence regardless of cause—an **ADR** implies a suspected causal relationship between the drug and the reaction.
+- **Distinction:** An *Adverse Event (AE)* is any untoward medical occurrence during treatment that does not necessarily have a causal relationship with the drug. An **ADR** implies a suspected causal relationship between the drug and the reaction.
 
 ---
 
 ## 2. Types of ADRs
 
-ADRs are classified based on mechanism, predictability, and severity:
+ADRs are commonly classified according to their characteristics and relationship to drug exposure:
 
 | ADR Type | Classification | Characteristics & Examples |
 | :--- | :--- | :--- |
-| **Type A (Augmented)** | Predictable / Dose-dependent | Related to primary pharmacology (e.g., hypoglycemia from insulin, dizziness/nausea). |
-| **Type B (Bizarre)** | Unpredictable / Idiosyncratic | Immune-mediated hypersensitivity or genetic susceptibility (e.g., Amoxicillin rash, anaphylaxis). |
-| **Type C (Chronic)** | Dose & Time-related | Associated with long-term therapy (e.g., adrenal suppression from steroids). |
-| **Type D (Delayed)** | Time-related / Teratogenic | Manifests long after treatment (e.g., **Thalidomide-induced phocomelia**). |
-| **Type E (End of Use)** | Withdrawal-related | Occurs upon abrupt cessation (e.g., rebound hypertension). |
-| **Type F (Failure)** | Therapeutic Failure | Unexpected lack of efficacy (often due to drug resistance or quality issues). |
+| **Type A (Augmented)** | Predictable / Dose-related | Related to the drug's known pharmacological action (e.g., hypoglycemia from insulin). |
+| **Type B (Bizarre)** | Unpredictable | Not readily explained by the drug's usual pharmacology (e.g., hypersensitivity reactions such as an amoxicillin-associated rash). |
+| **Type C (Chronic)** | Long-term use | Associated with prolonged treatment (e.g., adrenal suppression from long-term corticosteroid use). |
+| **Type D (Delayed)** | Delayed onset | Appears after some time, sometimes after exposure has ended (e.g., thalidomide-associated congenital malformations). |
+| **Type E (End of Use)** | Withdrawal-related | Occurs after withdrawal of a medicine (e.g., rebound hypertension after abrupt discontinuation of certain antihypertensives). |
+| **Type F (Failure)** | Unexpected therapeutic failure | The expected therapeutic effect is not achieved (e.g., treatment failure associated with drug resistance or a product-quality issue). |
 
 ---
 
 ## 3. Pharmacovigilance (PV) & Historical Significance
 
-**Pharmacovigilance** is defined by WHO as the *science and activities relating to the detection, assessment, understanding, and prevention of adverse effects or any other drug-related problem.*
+**Pharmacovigilance (PV)** is defined by the WHO as the science and activities relating to the detection, assessment, understanding, and prevention of adverse effects or other drug-related problems.
 
-### **Historical Milestone: The Thalidomide Catastrophe**
-* **Context:** In the 1950s–1960s, Thalidomide given for morning sickness resulted in severe congenital malformations (**phocomelia**).
-* **PV Significance:** This disaster exposed the critical need for post-market surveillance, mandatory safety testing, structured spontaneous reporting, and causality assessment worldwide.
+### Historical Milestone: The Thalidomide Catastrophe
+
+- **Context:** During the late 1950s and early 1960s, thalidomide exposure during pregnancy was associated with severe congenital malformations, including **phocomelia**.
+- **PV Significance:** This tragedy highlighted the importance of medicine safety monitoring, appropriate safety testing, spontaneous reporting, and systematic assessment of suspected adverse reactions.
 
 ---
 
 ## 4. How to Report an ADR (Case Application & Workflow)
 
-### **Patient Case Scenario Analysis**
-* **Patient:** 45-year-old female
-* **Suspected Product:** Amoxicillin (Oral) initiated on Day -5
-* **Concomitant Product:** Paracetamol PRN
-* **Reported Reaction:** Cutaneous rash, pruritus, nausea, dizziness starting on Day -2 (3 days post-initiation)
+### Patient Case Scenario
+
+- **Patient:** 45-year-old female
+- **Suspected Product:** Amoxicillin (oral), initiated on Day -5
+- **Concomitant Product:** Paracetamol, taken as needed (PRN)
+- **Reported Reactions:** Rash, pruritus, nausea, and dizziness beginning on Day -2, approximately three days after amoxicillin initiation
+
+### Step-by-Step ADR Reporting Process
+
+#### Step 1: Patient & Reaction Data Collection
+
+- Collect the available patient demographics, medication history, and details of the reported reactions.
+- Record the symptoms using appropriate standardized medical terminology, such as rash, pruritus, nausea, and dizziness.
+- Identify any missing information that may be needed for further assessment.
+
+#### Step 2: Temporal Relationship and Preliminary Causality Assessment
+
+- **Temporal Relationship:** The reported symptoms began approximately three days after amoxicillin was initiated. This timing supports consideration of a possible association but does not establish causality.
+- **Naranjo Algorithm:** A definitive score cannot be assigned from the information provided. Additional details are needed, including prior exposure history, alternative causes, and the patient's outcome after any treatment changes.
+- **Preliminary Assessment:** Amoxicillin is a suspected product. The available information is insufficient to establish a final causality category.
+
+#### Step 3: Safety Assessment and Clinical Follow-up
+
+1. **Clinical Assessment:** A qualified healthcare professional should promptly assess the reported rash, pruritus, nausea, and dizziness, including the possibility of a serious allergic reaction.
+2. **Medication Review:** The treating healthcare professional should review the suspected medicine and determine appropriate management, including whether discontinuation or an alternative treatment is indicated.
+3. **Documentation:** Record the reported reaction, clinical assessment, management decisions, and outcome when available. Document any suspected allergy according to applicable clinical procedures.
+
+#### Step 4: ICSR Documentation and Reporting
+
+1. **Case Documentation:** Record the available patient, suspected-product, reaction, and reporter information using the applicable reporting format, such as the CIOMS I form or Philippine FDA ADR form, as appropriate.
+2. **Regulatory Reporting:** Follow the applicable Philippine FDA reporting requirements and procedures.
+3. **Follow-up:** Document additional information when available and retain appropriate records for safety review.
 
 ---
 
-### **Step-by-Step ADR Reporting Process**
+### Learning Note
 
-#### **Step 1: Patient & Reaction Data Collection (MedDRA Triage)**
-* Collect patient demographics, full medication history, and symptoms coded using standardized medical terms (e.g., *Rash, Pruritus, Nausea, Dizziness*).
+This simulated educational case demonstrates the principles of ADR documentation, preliminary assessment, and reporting. It does not represent an actual patient report or an Individual Case Safety Report (ICSR) submitted to a regulatory authority.
 
-#### **Step 2: Temporal & Causality Assessment**
-* **Temporal Relationship:** Positive (Symptoms appeared 3 days after drug initiation).
-* **Naranjo Algorithm Score:** **Probable ADR** (+5 to +8 points)
-  * Drug preceded reaction (+2)
-  * Known reaction profile for beta-lactams (+1)
-  * No obvious alternative cause (+1)
-  * Response to dechallenge (+1)
+---
 
-#### **Step 3: Clinical Risk Mitigation & Dechallenge**
-1. **Immediate Dechallenge:** Discontinue Amoxicillin immediately.
-2. **Therapeutic Substitution:** Recommend non-cross-reactive alternatives (e.g., Macrolides).
-3. **EHR Flagging:** Log **"Amoxicillin/Penicillin Allergy"** in the electronic health record to prevent accidental re-exposure.
+### Portfolio Disclosure
 
-#### **Step 4: Formal ICSR Submission**
-* Complete an **Individual Case Safety Report (ICSR)** using standard national regulatory forms (e.g., CDSCO/PvPI or FDA MedWatch forms) and log the event into the safety database for aggregate signal detection.
+This repository contains my own work, completed as part of my pharmacovigilance learning activities. The exercise demonstrates my understanding of the topic and my ability to research, analyze, and document relevant information.
+
+This is an educational exercise and does not represent actual patient-care activities or professional employment. The case scenario is provided for learning purposes only.
 
 
-Portfolio Disclosure
-This repository contains my own work, completed as part of my pharmacovigilance learning activities. The exercise demonstrates my understanding of the assigned topic and my ability to research, analyze, and document relevant information.
-This is an educational exercise and does not represent actual patient-care activities or professional employment. Any case examples are for learning purposes only.
