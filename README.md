@@ -74,7 +74,7 @@ ADRs are classified based on mechanism, predictability, and severity:
 #### **Step 4: Formal ICSR Submission**
 * Complete an **Individual Case Safety Report (ICSR)** using standard national regulatory forms (e.g., CDSCO/PvPI or FDA MedWatch forms) and log the event into the safety database for aggregate signal detection.
 
-* Portfolio Disclosure
-This repository contains my own work, completed as part of my pharmacovigilance learning activities. The exercise demonstrates my understanding of the assigned topic and my ability to research, analyze, and document relevant information.
 
+Portfolio Disclosure
+This repository contains my own work, completed as part of my pharmacovigilance learning activities. The exercise demonstrates my understanding of the assigned topic and my ability to research, analyze, and document relevant information.
 This is an educational exercise and does not represent actual patient-care activities or professional employment. Any case examples are for learning purposes only.
